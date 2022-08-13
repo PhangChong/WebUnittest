@@ -1,0 +1,51 @@
+2022-08-13 22:42:39,771 - ReadConf - INFO - 读取config:[browserType]browserName=Chrome
+2022-08-13 22:42:39,772 - GetBrowser - INFO - 选择了 Chrome browser.
+2022-08-13 22:42:39,772 - ReadConf - INFO - 读取config:[testURL]URL=https://www.baidu.com
+2022-08-13 22:42:39,772 - GetBrowser - INFO - 测试网址为: https://www.baidu.com
+2022-08-13 22:42:39,772 - ReadConf - INFO - 读取config:[testSystem]tSystem=1
+2022-08-13 22:42:39,772 - GetBrowser - INFO - 选择系统为: MacOs
+2022-08-13 22:42:41,220 - GetBrowser - INFO - 启动 Chrome browser.
+2022-08-13 22:42:54,772 - GetBrowser - INFO - 打开网址: https://www.baidu.com
+2022-08-13 22:42:54,925 - GetBrowser - INFO - 最大化当前窗口.
+2022-08-13 22:42:54,926 - GetBrowser - INFO - 设置隐式等待5秒.
+2022-08-13 22:42:54,930 - BasePage - INFO - 当前的页面标题是 百度一下，你就知道
+2022-08-13 22:42:55,081 - BasePage - INFO - 在输入框中输入了'peng'
+2022-08-13 22:42:55,142 - BasePage - INFO - 点击了元素 '' .
+2022-08-13 22:42:57,142 - BasePage - INFO - 休眠 2 秒
+2022-08-13 22:43:01,369 - BasePage - INFO - 已截图并保存到文件夹: /screenshots
+2022-08-13 22:43:01,442 - BasePage - INFO - 在输入框中输入了'chong'
+2022-08-13 22:43:01,497 - BasePage - INFO - 点击了元素 '' .
+2022-08-13 22:43:03,948 - BasePage - INFO - 已截图并保存到文件夹: /screenshots
+2022-08-13 22:43:04,044 - ReadConf - INFO - 读取config:[browserType]browserName=Chrome
+2022-08-13 22:43:04,044 - GetBrowser - INFO - 选择了 Chrome browser.
+2022-08-13 22:43:04,044 - ReadConf - INFO - 读取config:[testURL]URL=https://www.baidu.com
+2022-08-13 22:43:04,044 - GetBrowser - INFO - 测试网址为: https://www.baidu.com
+2022-08-13 22:43:04,045 - ReadConf - INFO - 读取config:[testSystem]tSystem=1
+2022-08-13 22:43:04,045 - GetBrowser - INFO - 选择系统为: MacOs
+2022-08-13 22:43:05,505 - GetBrowser - INFO - 启动 Chrome browser.
+2022-08-13 22:43:06,254 - GetBrowser - INFO - 打开网址: https://www.baidu.com
+2022-08-13 22:43:06,553 - GetBrowser - INFO - 最大化当前窗口.
+2022-08-13 22:43:06,555 - GetBrowser - INFO - 设置隐式等待5秒.
+2022-08-13 22:43:06,848 - BasePage - INFO - 已移动到了元素 '设置' .
+2022-08-13 22:43:06,901 - BasePage - INFO - 点击了元素 '搜索设置' .
+2022-08-13 22:43:07,007 - BasePage - INFO - 点击了元素 '高级搜索' .
+2022-08-13 22:43:07,054 - BasePage - INFO - 点击了元素 '搜索设置' .
+2022-08-13 22:43:07,105 - BasePage - INFO - 点击了元素 '' .
+2022-08-13 22:43:07,151 - BasePage - INFO - 点击了元素 '' .
+2022-08-13 22:43:07,192 - BasePage - INFO - 点击了元素 '保存设置' .
+2022-08-13 22:43:08,197 - BasePage - INFO - 休眠 1 秒
+2022-08-13 22:43:08,202 - BasePage - INFO - 已在弹窗点击确定.
+2022-08-13 22:43:08,275 - ReadConf - INFO - 读取config:[browserType]browserName=Chrome
+2022-08-13 22:43:08,275 - GetBrowser - INFO - 选择了 Chrome browser.
+2022-08-13 22:43:08,275 - ReadConf - INFO - 读取config:[testURL]URL=https://www.baidu.com
+2022-08-13 22:43:08,275 - GetBrowser - INFO - 测试网址为: https://www.baidu.com
+2022-08-13 22:43:08,276 - ReadConf - INFO - 读取config:[testSystem]tSystem=1
+2022-08-13 22:43:08,276 - GetBrowser - INFO - 选择系统为: MacOs
+2022-08-13 22:43:09,537 - GetBrowser - INFO - 启动 Chrome browser.
+2022-08-13 22:43:10,954 - GetBrowser - INFO - 打开网址: https://www.baidu.com
+2022-08-13 22:43:11,240 - GetBrowser - INFO - 最大化当前窗口.
+2022-08-13 22:43:11,242 - GetBrowser - INFO - 设置隐式等待5秒.
+2022-08-13 22:43:11,379 - BasePage - INFO - 点击了元素 '' .
+2022-08-13 22:43:14,382 - BasePage - INFO - 休眠 3 秒
+2022-08-13 22:43:14,393 - BasePage - INFO - 已切换至第1页窗口
+2022-08-13 22:43:17,412 - BasePage - INFO - 休眠 3 秒

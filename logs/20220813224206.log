@@ -1,0 +1,7 @@
+2022-08-13 22:42:06,263 - ReadConf - INFO - 读取config:[browserType]browserName=Chrome
+2022-08-13 22:42:06,263 - GetBrowser - INFO - 选择了 Chrome browser.
+2022-08-13 22:42:06,264 - ReadConf - INFO - 读取config:[testURL]URL=https://www.baidu.com
+2022-08-13 22:42:06,264 - GetBrowser - INFO - 测试网址为: https://www.baidu.com
+2022-08-13 22:42:06,266 - ReadConf - INFO - 读取config:[testSystem]tSystem=2
+2022-08-13 22:42:06,266 - GetBrowser - INFO - 选择系统为: Windows
+2022-08-13 22:42:06,271 - GetBrowser - ERROR - 浏览器启动失败：WebDriverException("'chromedriver.exe' executable may have wrong permissions. Please see https://chromedriver.chromium.org/home")
